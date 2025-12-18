@@ -1,6 +1,6 @@
 # LangChain-Based LLM Applications 🚀
 
-This repository presents **multiple Large Language Model (LLM) applications**, ranging from **simple to advanced**, all developed using **LangChain**.  
+This repository presents **multiple Large Language Model (LLM) applications**, following **Udemy GenAI course** ranging from **simple to advanced**, all developed using **LangChain**.  
 The projects demonstrate different techniques for building, chaining, and deploying LLM-powered workflows, including **interactive Streamlit applications**.
 
 Each project can be run independently after setting up the environment described below.
