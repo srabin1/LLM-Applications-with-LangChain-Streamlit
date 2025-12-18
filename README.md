@@ -39,6 +39,7 @@ Install all dependencies using the provided requirements.txt file:
 pip install -r requirements.txt
 ```
 
+---
 ### 🧠 VS Code Kernel Configuration
 
 To ensure the correct Python environment is used:
@@ -51,6 +52,7 @@ Choose:
 ```bash
 venv (Python 3.11)
 ```
+---
 ### 🔑 API Keys & Environment Variables
 
 Some applications (especially Streamlit apps) require API keys from external services.
@@ -75,17 +77,17 @@ LANGCHAIN_API_KEY=*****
 HUGGINGFACE_API_KEY=*****
 ```
 
-
 ### ⚠️ Important:
 Do NOT commit your .env file to GitHub. Add it to .gitignore.
 
+---
 ### ▶️ Running Streamlit Applications
 
 Navigate to the desired project folder and run:
 ```bash
 streamlit run app.py
 ```
-
+---
 
 ### 🛠 Technologies Used
 
