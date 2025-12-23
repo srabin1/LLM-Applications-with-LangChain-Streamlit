@@ -1,0 +1,21 @@
+# Environment variables / secrets
+.env
+**/.env
+
+# API keys / credentials
+*.key
+*.pem
+*.secret
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
