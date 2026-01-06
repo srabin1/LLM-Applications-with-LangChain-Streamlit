@@ -109,35 +109,40 @@ Conda
 
 ---
 ### ▶️ Live Demo
-1. RAG Document Q&A With Groq:
-   [RAG Document Q&A With Groq](https://questionanswerconversationalchatbot-znkeatp8cuoutfmvcekjj9.streamlit.app/)
-
-2. Enhanced Q&A Chatbot With OpenAI:
-   [Enhanced Q&A Chatbot With OpenAI](https://questionanswerconversationalchatbot-2jvydeqfojelumoljvmfhy.streamlit.app/)
-
-3. Upload your PDF and ask any question about it:
-   [Conversational RAG with PDF uploads and chat history](https://questionanswerconversationalchatbot-jaqzeetl5eanmggzk2iyzw.streamlit.app/)
-
-4. This is a search engine, ask anything from Wikipedia or Arxive websites:
-   [LangChain-Chat with search](https://questionanswerconversationalchatbot-g48wy7tukjf7dtvkqpse7x.streamlit.app/)
-
-5. Upload your SQL Database and ask any question:
-   [LangChain: Chat with SQL DB](https://questionanswerconversationalchatbot-ks3mf82qbtxwj3ttr8v9jk.streamlit.app/)
-
-6. RAG Document Q&A With HuggingFace Embeddings:
-   [RAG Document Q&A With HuggingFace Embeddings](https://questionanswerconversationalchatbot-ednd455mduvxpo89b2wzxr.streamlit.app/)
-
-7. Summarize Texts from YouTube channel or any other websites:
-   [Text Summary](https://questionanswerconversationalchatbot-svua2cflnhymvotbxfxavi.streamlit.app/)
-
-8. Customer Churn Prediction — Classification:
+1. Customer Churn Prediction — Classification:
    [Churn Classification](https://deeplearninggit-6mff75dautru3heuzrkdeg.streamlit.app/)
 
-9. Customer Churn Prediction — Regression:
+2. Customer Churn Prediction — Regression:
    [Churn Regression](https://deeplearninggit-mbgwgidkualfm95op3fghx.streamlit.app/)
 
-10. IMDB Recommendation System — Simple RNN Model:
+3. IMDB Recommendation System — Simple RNN Model:
    [IMDB Recommendation System](https://imdbrecommendationsystem-56lwypjqhkah7uvsyxfjap.streamlit.app/)
 
-11. Guess Next Word — LSTM Language Model:
+4. Guess Next Word — LSTM Language Model:
    [LSTM Language Model](https://guessnextword-fbzugxpbpwfmic7rqu2h9a.streamlit.app/)
+   
+5. RAG Document Q&A With Groq:
+   [RAG Document Q&A With Groq](https://questionanswerconversationalchatbot-znkeatp8cuoutfmvcekjj9.streamlit.app/)
+
+6. Enhanced Q&A Chatbot With OpenAI:
+   [Enhanced Q&A Chatbot With OpenAI](https://questionanswerconversationalchatbot-2jvydeqfojelumoljvmfhy.streamlit.app/)
+
+7. Upload your PDF and ask any question about it:
+   [Conversational RAG with PDF uploads and chat history](https://questionanswerconversationalchatbot-jaqzeetl5eanmggzk2iyzw.streamlit.app/)
+
+8. This is a search engine, ask anything from Wikipedia or Arxive websites:
+   [LangChain-Chat with search](https://questionanswerconversationalchatbot-g48wy7tukjf7dtvkqpse7x.streamlit.app/)
+
+9. Upload your SQL Database and ask any question:
+   [LangChain: Chat with SQL DB](https://questionanswerconversationalchatbot-ks3mf82qbtxwj3ttr8v9jk.streamlit.app/)
+
+10. RAG Document Q&A With HuggingFace Embeddings:
+   [RAG Document Q&A With HuggingFace Embeddings](https://questionanswerconversationalchatbot-ednd455mduvxpo89b2wzxr.streamlit.app/)
+
+11. Summarize Texts from YouTube channel or any other websites:
+   [Text Summary](https://questionanswerconversationalchatbot-svua2cflnhymvotbxfxavi.streamlit.app/)
+
+12. Text To Math Problem Solver Using Groq models:
+   [Math Chatbot](https://questionanswerconversationalchatbot-b7jptkss6xnqjuqesvzuym.streamlit.app/)
+
+
