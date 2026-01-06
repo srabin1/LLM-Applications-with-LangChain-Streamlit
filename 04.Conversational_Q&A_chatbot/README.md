@@ -6,7 +6,8 @@ This repository contains a collection of **Streamlit applications powered by Lan
 - 🔎 Tool-using agents (Web search, Wikipedia, arXiv)  
 - 🗄️ Natural-language querying of SQL databases  
 - 🎥🌐 Summarization of YouTube videos and web pages  
-- 💬 General Q&A chatbots  
+- 💬 General Q&A chatbots
+- 🔢 Text to Math problem solver
 
 All apps are **Streamlit Cloud–compatible** and designed so that **each user provides their own API key**, ensuring:
 
@@ -66,4 +67,7 @@ Link to my deployed Streamlit apps:
 
 7. Summarize Texts from YouTube channel or any other websites:
    [Text Summary](https://questionanswerconversationalchatbot-gsqxb2cbt7xrt5hecc6fds.streamlit.app/)
+
+8. Text To Math Problem Solver Using Groq models:
+   [Math Chatbot](https://questionanswerconversationalchatbot-b7jptkss6xnqjuqesvzuym.streamlit.app/)
 
