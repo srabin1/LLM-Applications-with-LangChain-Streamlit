@@ -39,7 +39,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/local-llm-code-assistant.git
 cd local-llm-code-assistant
-
+```
 ## ▶️ Run the Application
 
 1. open command prompt and run: ollama run codeollama
@@ -51,7 +51,7 @@ python app.py
 ```
 
 ---
-###Open your browser and navigate to:
+## Open your browser and navigate to:
 
 http://127.0.0.1:7860
 
