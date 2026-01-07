@@ -34,25 +34,17 @@ This app allows users to interact with a locally running Large Language Model (L
 
 ## ▶️ Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/local-llm-code-assistant.git
-cd local-llm-code-assistant
-```
-## ▶️ Run the Application
-
 1. open command prompt and run: ollama run codeollama
 2. ollama create codeguru -f modelfile
 3. ollama run codeguru
-then: 
+   
+## ▶️ Run the Application
 ```bash
 python app.py
 ```
 
 ---
 ## Open your browser and navigate to:
-
 http://127.0.0.1:7860
 
 
