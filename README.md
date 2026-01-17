@@ -145,7 +145,7 @@ Conda
 12. Text To Math Problem Solver Using Groq models:
    [Math Chatbot](https://questionanswerconversationalchatbot-b7jptkss6xnqjuqesvzuym.streamlit.app/)
 
-13. RAG-Based PDF Question Answering with NVIDIA NIMRAG-Based PDF Question Answering with NVIDIA NIM:
+13. RAG-Based PDF Question Answering with NVIDIA NIM:
    [NVIDIA_NIM RAG Chatbot](https://questionanswerconversationalchatbot-hyeih44pod9eudc4qewmsn.streamlit.app/)
 
 
